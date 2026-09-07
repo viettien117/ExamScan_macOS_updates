@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ExamScan Updates (macOS Intel)</title>
+    <link>https://viettien117.github.io/ExamScan_macOS_updates/appcast-osx-x64.xml</link>
+    <description>Auto-update feed for ExamScan on macOS (Intel)</description>
+    <language>vi</language>
+
+  <item><title>Version 1.1.1</title><pubDate>Mon, 07 Sep 2026 16:52:57 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.1</h3>
+        <p>Bản macOS đầu tiên của ExamScan — chạy trên cả máy Apple Silicon và Intel, chấm ra kết quả giống hệt bản Windows. Nhận ảnh HEIC chụp bằng iPhone. Kèm bản vá lỗi ảnh chụp thiếu sáng bị bỏ sót hàng cuối tờ phiếu, khiến máy đọc ra 59/60 câu rồi báo là không phát hiện đủ số ô tròn (lõi chấm 1.0.8).</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamScan_macOS_updates/releases/download/v1.1.1/ExamScan-1.1.1-osx-x64.zip" length="55701141" type="application/octet-stream" sparkle:version="1.1.1" sparkle:os="macos" sparkle:edSignature="J5Z5Ao3J01oEVCNLE6z19Ns44Yd8JavECBaSDt9+LmOsKsKFIAifTdR0Ui46CO31OBbEyCq4ZN98OrPYcVP1CQ==" /></item></channel>
+</rss>
