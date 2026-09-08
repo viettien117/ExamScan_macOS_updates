@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamScan on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.1</title><pubDate>Mon, 07 Sep 2026 16:52:56 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.2</title><pubDate>Tue, 08 Sep 2026 10:49:05 +0700</pubDate><sparkle:version>1.1.2</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.2</h3>
+        <p>Sửa hai lỗi chấm. Phiếu có mã đề 4 chữ số trước đây không bao giờ khớp file đáp án — chương trình chỉ đọc 3 chữ số đầu; tệ hơn, toàn bộ đáp án bị lệch đi một câu, nên nếu mã đề vô tình khớp thì điểm trông hợp lý mà sai hết. Ảnh HEIC của iPhone khi chấm lần đầu có thể mất một phiếu hoặc làm chương trình báo lỗi. Ngoài ra, chỗ báo lỗi nay nói rõ câu nào chưa tô đen hay tô đen nhiều lần, áp dụng cho cả số báo danh và mã đề thi. Nâng lõi chấm lên 1.0.9.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamScan_macOS_updates/releases/download/v1.1.2/ExamScan-1.1.2-osx-arm64.zip" length="53255703" type="application/octet-stream" sparkle:version="1.1.2" sparkle:os="macos" sparkle:edSignature="Fa07+7uA3JwYdHZ2MOQLFh4OkE7wu5VlfRncwsiIFSmk1sd2NhkajdbXn99Qes2/Ct6rrcC15Sh3IDoRR61GAg==" /></item><item><title>Version 1.1.1</title><pubDate>Mon, 07 Sep 2026 16:52:56 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
         <h3>Version 1.1.1</h3>
         <p>Bản macOS đầu tiên của ExamScan — chạy trên cả máy Apple Silicon và Intel, chấm ra kết quả giống hệt bản Windows. Nhận ảnh HEIC chụp bằng iPhone. Kèm bản vá lỗi ảnh chụp thiếu sáng bị bỏ sót hàng cuối tờ phiếu, khiến máy đọc ra 59/60 câu rồi báo là không phát hiện đủ số ô tròn (lõi chấm 1.0.8).</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamScan_macOS_updates/releases/download/v1.1.1/ExamScan-1.1.1-osx-arm64.zip" length="53248627" type="application/octet-stream" sparkle:version="1.1.1" sparkle:os="macos" sparkle:edSignature="5NleKdCr5li/Tit87dPXgIenufo569vP/BcSaqxae972bn2qqfIvexNGsVblxcCVWYTgYIfCntDOw+Y0Cy8xCw==" /></item></channel>
