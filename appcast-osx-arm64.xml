@@ -6,7 +6,15 @@
     <description>Auto-update feed for ExamScan on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.4</title><pubDate>Wed, 09 Sep 2026 10:55:07 +0700</pubDate><sparkle:version>1.1.4</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.5</title><pubDate>Fri, 11 Sep 2026 09:59:40 +0700</pubDate><sparkle:version>1.1.5</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.5</h3>
+        <p>Báo rõ CHỖ NÀO trên phiếu bị lệch ô tròn, thay vì chỉ nói chung chung.
+
+• Thiếu ô tròn: nay nói rõ câu số mấy (khung trả lời) hay cột số mấy (mã số sinh viên, mã đề) — không phải dò bằng mắt cả phiếu nữa.
+• Thừa ô tròn: phát hiện thêm trường hợp vết bẩn, dấu tay hay nét bút thừa bị đọc nhầm thành ô đã tô. Đây là kiểu hỏng trước giờ làm chấm sai câu đó mà không hề có cảnh báo nào, vì tổng số ô tròn không thay đổi.
+• Lời nhắc đi kèm nay khớp với nguyên nhân: thiếu ô thì nên chụp lại cho nét và thẳng, còn thừa ô thì phải xem lại chính tờ phiếu — chụp lại sẽ ra đúng kết quả cũ.
+• Cải thiện phép gom hàng ô tròn trong lõi nhận dạng. Bộ phiếu mẫu chấm ra kết quả giống hệt từng ký tự.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamScan_macOS_updates/releases/download/v1.1.5/ExamScan-1.1.5-osx-arm64.zip" length="53267746" type="application/octet-stream" sparkle:version="1.1.5" sparkle:os="macos" sparkle:edSignature="+iC/EKhYDVC3XYN1wGI03ajC960piOJ0tMaLCX5DtgFtqcT9C6v0Kd8svK0jTLSG6eIgTipnaBpMgsoKJ9RRBQ==" /></item><item><title>Version 1.1.4</title><pubDate>Wed, 09 Sep 2026 10:55:07 +0700</pubDate><sparkle:version>1.1.4</sparkle:version><description><![CDATA[
         <h3>Version 1.1.4</h3>
         <p>Sửa lỗi quan trọng: logo tròn nhiều vòng đồng tâm trên phiếu (huy hiệu câu lạc bộ, con dấu nhà trường) có thể bị nhận nhầm là dấu định vị góc và làm hỏng cả quá trình chấm. Nay ba dấu góc được chọn theo độ đồng đều kích thước thay vì lấy ba hình lớn nhất, nên vật lạ không còn hất dấu thật ra ngoài. Nâng lõi chấm lên 1.0.10. Trang Giới thiệu nay có thêm ExamSheet — chương trình vẽ ra chính tờ phiếu mà ExamScan quét; phiếu in từ ExamSheet có sẵn ba dấu định vị góc nên chấm được ngay. Bản macOS đi thẳng từ 1.1.2 lên 1.1.4 để cùng số hiệu với bản Windows.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamScan_macOS_updates/releases/download/v1.1.4/ExamScan-1.1.4-osx-arm64.zip" length="53258290" type="application/octet-stream" sparkle:version="1.1.4" sparkle:os="macos" sparkle:edSignature="2awnv59gaElUqH2k1OnhSOJZ/gMjhg8dw58JvaC2C+HPtfGm6iEFjSyBSOmXhSOIJ4bm15svpgaeltb/41aXCA==" /></item><item><title>Version 1.1.2</title><pubDate>Tue, 08 Sep 2026 10:49:05 +0700</pubDate><sparkle:version>1.1.2</sparkle:version><description><![CDATA[
