@@ -6,7 +6,16 @@
     <description>Auto-update feed for ExamScan on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.7</title><pubDate>Mon, 05 Oct 2026 12:11:51 +0700</pubDate><sparkle:version>1.1.7</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.8</title><pubDate>Thu, 15 Oct 2026 11:40:44 +0700</pubDate><sparkle:version>1.1.8</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.8</h3>
+        <p>Sửa tay kết quả và báo cáo PDF (góp ý của giảng viên).
+
+• Thẻ Kết quả: bấm vào một câu để sửa tay khi máy đọc sai — điểm tính lại ngay. Bấm số báo danh / mã đề để nhập tay; đổi mã đề thì phiếu được chấm lại theo đáp án của mã đề đó.
+• Nút "Xuất PDF": mỗi phiếu một trang — ảnh phiếu đánh dấu đúng/sai, bảng từng câu, tỷ lệ cả lớp làm đúng — kèm trang tổng hợp đầu file.
+• KetQua.xlsx: số câu đúng, số câu của đề, điểm thang 10 và tỷ lệ % đúng nằm ngay đầu bảng.
+• Ô tô nhiều nền đỏ, ô bỏ trống nền cam — dễ thấy hơn.
+• Lõi nhận dạng 1.0.12: tự dựng lại ô tròn bị mờ / mất vành (trước đây làm lệch các câu phía sau); đọc đúng phiếu 2 lựa chọn A/B.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamScan_macOS_updates/releases/download/v1.1.8/ExamScan-1.1.8-osx-arm64.zip" length="53763156" type="application/octet-stream" sparkle:version="1.1.8" sparkle:os="macos" sparkle:edSignature="jviBZFOHN+NNJnREk7cGbg71i4GUQY8Xg1e+TaEufq9kkVPdWZ7IuYyuhx6pkZX/dgbTcLo0Z2mM0jwjhSCZBg==" /></item><item><title>Version 1.1.7</title><pubDate>Mon, 05 Oct 2026 12:11:51 +0700</pubDate><sparkle:version>1.1.7</sparkle:version><description><![CDATA[
         <h3>Version 1.1.7</h3>
         <p>Khung quảng cáo dễ xem hơn.
 
