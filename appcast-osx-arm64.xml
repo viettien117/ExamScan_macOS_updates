@@ -6,7 +6,13 @@
     <description>Auto-update feed for ExamScan on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.9</title><pubDate>Sat, 17 Oct 2026 13:33:23 +0700</pubDate><sparkle:version>1.1.9</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.10</title><pubDate>Thu, 29 Oct 2026 12:26:05 +0700</pubDate><sparkle:version>1.1.10</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.10</h3>
+        <p>Khung quảng cáo hiện nhanh hơn.
+
+• Ảnh quảng cáo đã lưu trên máy được dùng lại ngay, không phải chờ tải.
+• Chỉ tải ảnh mới khi nội dung trên máy chủ thật sự thay đổi — tiết kiệm dữ liệu mạng.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamScan_macOS_updates/releases/download/v1.1.10/ExamScan-1.1.10-osx-arm64.zip" length="53778969" type="application/octet-stream" sparkle:version="1.1.10" sparkle:os="macos" sparkle:edSignature="zUdNhClxj3Pz5gKhor1fJNYZ827G6jRX6DRjrB4/E5FGSlLNbpKhHmHfUVYL8L3PF76WrZJEfcsqX7nL5uhoCg==" /></item><item><title>Version 1.1.9</title><pubDate>Sat, 17 Oct 2026 13:33:23 +0700</pubDate><sparkle:version>1.1.9</sparkle:version><description><![CDATA[
         <h3>Version 1.1.9</h3>
         <p>Đọc đúng phiếu chụp hơi nghiêng.
 
