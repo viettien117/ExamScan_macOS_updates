@@ -6,7 +6,12 @@
     <description>Auto-update feed for ExamScan on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.11</title><pubDate>Mon, 09 Nov 2026 11:28:48 +0700</pubDate><sparkle:version>1.1.11</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.12</title><pubDate>Sat, 14 Nov 2026 13:20:44 +0700</pubDate><sparkle:version>1.1.12</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.12</h3>
+        <p>Nâng cấp trải nghiệm người dùng.
+
+• Cải thiện giao diện, sửa lỗi nhỏ và tăng độ ổn định.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamScan_macOS_updates/releases/download/v1.1.12/ExamScan-1.1.12-osx-arm64.zip" length="53784332" type="application/octet-stream" sparkle:version="1.1.12" sparkle:os="macos" sparkle:edSignature="EVXVv/DnoTe5ODAuDR0pF6GWJdDI8eXb53d5SXkpiAvxGVWrA4/6WW+N53Wm0lgQxgWo3+AY4Dk+DIM1npgEBg==" /></item><item><title>Version 1.1.11</title><pubDate>Mon, 09 Nov 2026 11:28:48 +0700</pubDate><sparkle:version>1.1.11</sparkle:version><description><![CDATA[
         <h3>Version 1.1.11</h3>
         <p>Gợi ý thống kê chi tiết với ExamInsight.
 
